@@ -1,0 +1,24 @@
+.login-form-container {
+    flex-basis: 25% ;
+    padding: 20px;
+}
+
+.app-logo { 
+    height: 60px;
+    width: 100%;
+    text-align: center;
+}
+
+.app-logo img {
+    object-fit: contain;
+    width: 60%;
+}
+
+.forgot-password {
+    font-size: 12px;
+}
+
+.forgot-password a {
+    text-decoration: none;
+    color: #000;
+}

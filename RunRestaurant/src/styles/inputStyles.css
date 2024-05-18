@@ -1,0 +1,7 @@
+.input-text {
+    width: calc(100% - 20px);
+    padding: 10px 16px 10px 5px;
+    border: 1px solid #aaa;
+    outline: none;
+    margin-bottom: 15px;
+}

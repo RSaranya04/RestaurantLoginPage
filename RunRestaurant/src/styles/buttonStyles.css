@@ -1,0 +1,7 @@
+.button-component {
+    background-color: #bd031b;
+    color: white;
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #aaa;
+}
